@@ -55,6 +55,8 @@ def screensaver(image_name = ''):
 
 if __name__ == "__main__":
     app.run(host = "localhost", port=555)
+	
+print "Hello this is git test."
     
 print "Hello this is git test"
     

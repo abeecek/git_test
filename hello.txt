@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 This is by master
+=======
+this is kushal speaking...
+do you hear me??? stupid
+
+
+>>>>>>> 660f2693760237ae1931a3ea226009f47db708d1

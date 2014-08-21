@@ -58,7 +58,7 @@ if __name__ == "__main__":
 	
 print "Hello this is git test."
     
-    
+print "Hello this is git test"
     
     
     
